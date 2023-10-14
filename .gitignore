@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.ipynb_checkpoints
+./.ipynb_checkpoints
+/.ipynb_checkpoints
+catboost_info
+/catboost_info
+./catboost_info
 # C extensions
 *.so
 
